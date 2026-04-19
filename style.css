@@ -12,7 +12,7 @@
 /* GLOBAL */
 body {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Amiri", serif;
   background: radial-gradient(circle at top, #1b1b26 0, #050509 55%, #020204 100%);
   color: var(--text-main);
   line-height: 1.7;
@@ -224,11 +224,7 @@ background-image: url("./brand-logo.jpeg");
   margin-top: 12px;
   font-size: 16px;
   color: var(--gold);
-}
-
-.total-note {
-  font-size: 13px;
-  color: var(--text-muted);
+  text-align: center;
 }
 
 /* CONFIRMATION */
