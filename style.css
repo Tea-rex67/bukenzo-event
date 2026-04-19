@@ -47,7 +47,7 @@ body {
 
 background-repeat: no-repeat;
 background-size: cover;
-  background-overlay: var(--bg-deep);
+  background-color: var(--bg-deep);
 background-position: center center;
   background-position: center x;
   background-position: center y;
