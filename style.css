@@ -45,7 +45,13 @@ body {
   font-size: 13px;
   color: var(--gold-soft);
 
-
+background-repeat: no-repeat;
+background-size: cover;
+  background-overlay: var(--bg-deep);
+background-position: center center;
+  background-position: center x;
+  background-position: center y;
+background-image: url("./brand-logo.jpeg");
 }
 
 .brand-logo_img {
