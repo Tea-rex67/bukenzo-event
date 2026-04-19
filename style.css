@@ -38,7 +38,6 @@ body {
   border-radius: 50%;
   border: 1px solid var(--gold-soft);
   display: flex;
-  align-items: center;
   justify-content: center;
   font-family: "Playfair Display", serif;
   font-size: 40px;  
@@ -48,6 +47,7 @@ body {
 background-repeat: no-repeat;
 background-size: cover;
   background-color: var(--bg-deep);
+  background-overlay: #0b0b0d;
 background-position: center center;
   background-position: center x;
   background-position: center y;
